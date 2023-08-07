@@ -1,0 +1,163 @@
+[
+  {
+    "gameName": "Pubg",
+    "gameDec": "PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole.",
+    "gameImg": "./images/pubg.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Free Fire",
+    "gameDec": "Game play. Garena Free Fire is an online-only action-adventure battle royale game played in a third person perspective.",
+    "gameImg": "./images/freefire.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Call of Duty",
+    "gameDec": "Call Of Duty (short form: CoD) is a first person and third-person shooter video game series. There are 24 games in total, not counting add-ons and DLCs. The first 8 games, excluding Modern Warfare.",
+    "gameImg": "./images/callofduty.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Tekken",
+    "gameDec": "Tekken is one of the best fighting game series out there. This game actually popularized the 3D fighting game genre even though it wasn’t the first. Tekken 7 is the most recent release in the series and brings an exciting gameplay along with highly impressive 3D graphics.",
+    "gameImg": "./images/tekken.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Warframe",
+    "gameDec": "Yet another game that you should definitely check out if you’re looking for an online PC game, Warframe is one of those titles that, even though old, have consistently received updates and new content to keep the game fresh and exciting for both newcomers and veteran players alike. In Warframe.",
+    "gameImg": "./images/warframe.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Team Forest",
+    "gameDec": "Overwatch wouldn’t have been a reality if it weren’t for Team Fortress 2. Blizzard probably won’t admit it themselves, but we all know that Overwatch was heavily inspired by Team Fortress 2 and its shenanigans.",
+    "gameImg": "./images/teamforest.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "League of Legends",
+    "gameDec": "League of Legends is another one of the top MOBAs out there and it’s a direct competitor to DoTA 2. It’s a much less complex MOBA when compared to DoTA 2. League of Legends is another highly played game and has a very large esports scene backing it up which makes it another exciting game.",
+    "gameImg": "./images/leagueoflegends.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Starcraft",
+    "gameDec": "Starcraft II is the most played online strategy games that tests your wits and the ability to outsmart your opponent. This game is all about gathering resources, building structures, and planning your attack against the enemy. Starcraft II offers a great story mode where you get to experience the ultimate showdown between the three main races in this universe. The Terrans, the Protoss, and the zergs.",
+    "gameImg": "./images/starcraft.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "World of Tanks",
+    "gameDec": "Are you a lover of tank-fights? If so, World of Tanks is the perfect free online PC game for you. World of Tanks is a MMO war game that features 20th century armored vehicles including light armored vehicles, to heavy tanks and self propelled guns.",
+    "gameImg": "./images/worldoftanks.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Rainbow Six Siege",
+    "gameDec": "Rainbow Six Siege is an online PC game that, at first glance, feels similar to Counter Strike. However, the game places a far higher importance on strategy and teamwork than most other online shooters you might have played.",
+    "gameImg": "./images/rainbowsixsiege.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "EVE Online",
+    "gameDec": "If you like space battles, EVE Online is a must-play game for you. The MMO space battle game is full of epic battles that you can be a part of. The game is old, having released in 2003, but it’s still well worthy of being on this list.",
+    "gameImg": "./images/eveonline.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Titanfall",
+    "gameDec": "Electronic Arts’ Titanfall 2 may have been released in 2016, but it’s still a one of the best online PC games that you can play. In Titanfall 2, players control large robots (called Titans) with some incredible abilities including things like wall running among others.",
+    "gameImg": "./images/titanfall.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Path of Exile",
+    "gameDec": "Path Of Exile is everything that Diablo III is not. It feels like the true successor to Diablo II and brings all the old memories back from amazing Diablo II days. Path of Exile plays and looks quite similar to Diablo II, however, it boasts much better graphics obviously.",
+    "gameImg": "./images/pathofexile.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Borderland",
+    "gameDec": "Borderlands is a 2009 open world action role-playing first-person shooter video game. ... The game's story focuses on a group of four \"Vault Hunters\", who travel to the distant planet of Pandora to search for the \"Vault\", which is rumored to contain advanced alien technology and other priceless riches.",
+    "gameImg": "./images/borderland.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Battlefield",
+    "gameDec": "Borderlands is a clown-fiesta that’s filled with extremely fun and exciting elements that make it a unique shooter. The game focuses on loot and grinds so much as if it were almost an MMORPG, but fortunately, it isn’t. Borderlands 3 brings all the amazing and exciting elements from the original game.",
+    "gameImg": "./images/battlefield.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Star Wars Battlefront",
+    "gameDec": "Star Wars™ Battlefront™ is the ultimate Star Wars battle experience, brought to life by the creators of Battlefield. Fight in epic Star Wars battles on iconic planets and rise through the ranks playing as the heroic Rebellion or the evil Galactic Empire.",
+    "gameImg": "./images/starwarsbattlefront.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Apex Legends",
+    "gameDec": "Apex Legends is an online multiplayer battle royale game featuring squads of three players using pre-made characters (called \"Legends\"), similar to those of hero shooters. Alternate modes have been introduced allowing for single and for two-player squads since the game's release.",
+    "gameImg": "./images/apexlegends.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Destiny 2",
+    "gameDec": "Destiny is an online-only multiplayer first-person shooter video game developed by Bungie and previously published by Activision. ... Activities in Destiny are divided among player versus environment (PvE) and player versus player (PvP) game types.",
+    "gameImg": "./images/destiny2.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "CS:GO",
+    "gameDec": "Counter-Strike: Global Offensive (CS:GO) is a multiplayer first-person shooter video game developed by Valve and Hidden Path Entertainment. ... The game pits two teams against each other: the Terrorists and the Counter-Terrorists. Both sides are tasked with eliminating the other while also completing separate objectives.",
+    "gameImg": "./images/csgo.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Dota 2",
+    "gameDec": "Dota 2 is a multiplayer online battle arena (MOBA) video game in which two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the \"Ancient\", whilst defending their own.",
+    "gameImg": "./images/dota2.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Overwatch",
+    "gameDec": "Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. Described as a \"hero shooter\", Overwatch assigns players into two teams of six, with each player selecting from a large roster of characters, known as \"heroes\", with unique abilities.",
+    "gameImg": "./images/overwatch.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Fortnite",
+    "gameDec": "Fortnite is a survival game where 100 players fight against each other in player versus player combat to be the last one standing. It is a fast-paced, action-packed game, not unlike The Hunger Games, where strategic thinking is a must in order to survive. There are an estimated 124 million players on Fortnite.",
+    "gameImg": "./images/fortnite.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  },
+  {
+    "gameName": "Valorant",
+    "gameDec": "Valorant is a team-based tactical shooter and first-person shooter set in the near-future. Players play as one of a set of agents, characters designed based on several countries and cultures around the world.",
+    "gameImg": "./images/valorant.jpg",
+    "rateFullStar": 4,
+    "rateHalfStart": 1
+  }
+]

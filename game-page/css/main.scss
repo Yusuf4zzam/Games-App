@@ -1,0 +1,77 @@
+@import url(../../includes//global-rules/global-rules.css);
+
+/*--------------------------- Error handler Rules ---------------------------*/
+.error-handler {
+  text-align: center;
+  svg {
+    font-size: 3em;
+    color: #ffeb3b;
+  }
+
+  h3 {
+    font-size: 3em;
+    letter-spacing: 1px;
+    color: #fff;
+    margin: 10px 0 15px;
+  }
+
+  p {
+    color: #f1f1f1;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    font-size: 14px;
+    width: 70%;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .error-handler p {
+    width: 100% !important;
+  }
+}
+
+main {
+  .container {
+    padding: 50px 15px;
+    .game-info {
+      display: flex;
+      align-items: center;
+      gap: 30px;
+      margin-bottom: 30px;
+
+      img {
+        width: 200px;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 5px;
+      }
+
+      h3 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        color: var(--heading-color-2);
+        letter-spacing: 1px;
+      }
+
+      .rate {
+        display: flex;
+        gap: 10px;
+
+        color: #ffc107;
+        font-size: 22px;
+      }
+    }
+
+    .game-dec {
+      color: var(--text-color);
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 20px;
+    }
+
+    .download-btn {
+      text-align: center;
+    }
+  }
+}

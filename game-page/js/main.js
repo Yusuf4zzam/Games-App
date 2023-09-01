@@ -66,13 +66,16 @@ window.addEventListener("click", (e) => {
 });
 
 /* -------------------------------------- Check If The Session Storage Property Is Available -------------------------------------- */
-if (location.hash) {
-  createGameData(location.hash);
-} else if (sessionStorage.getItem("gameName")) {
-  createGameData(sessionStorage.getItem("gameName"));
-} else {
-  errorMsg();
-}
+window.addEventListener("load", () => {
+  if (location.hash) {
+    createGameData(location.hash);
+  } else if (sessionStorage.getItem("gameName")) {
+    createGameData(sessionStorage.getItem("gameName"));
+    location.hash = sessionStorage.getItem("gameName");
+  } else {
+    errorMsg();
+  }
+});
 
 /* -------------------------------------- Error Message Function -------------------------------------- */
 function errorMsg() {

@@ -74,7 +74,7 @@ document.title = "XGAMES | " + pageName;
 $$(".slider-page .page-name").forEach((e) => (e.textContent = pageName));
 
 /* -------------------------------------- Iterate On THe Games Data  -------------------------------------- */
-fetch("./games.json")
+fetch("../games-data.json")
   .then((res) => res.json())
   .then((data) => {
     data.forEach((e) => {

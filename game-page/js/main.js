@@ -105,7 +105,7 @@ function errorMsg() {
 
 /* -------------------------------------- Create The Game Data Function -------------------------------------- */
 function createGameData(target) {
-  fetch("../../games/games.json")
+  fetch("../games-data.json")
     .then((res) => res.json())
     .then((data) => {
       data.forEach((e) => {

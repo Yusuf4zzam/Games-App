@@ -664,10 +664,13 @@ nav .container .burger-toggler {
     font-size: 18px;
   }
   nav .container .main-lists > li.active ul {
-    height: 90px !important;
+    height: 100px !important;
     width: unset !important;
     margin-top: 10px;
     font-size: 15px !important;
+  }
+  nav .container .main-lists > li.active ul li:hover a {
+    color: var(--main-color-1) !important;
   }
   nav .container .main-lists > li svg {
     float: right;

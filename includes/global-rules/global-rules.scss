@@ -538,10 +538,14 @@ nav {
         > li {
           &.active {
             ul {
-              height: 90px !important;
+              height: 100px !important;
               width: unset !important;
               margin-top: 10px;
               font-size: 15px !important;
+
+              li:hover a {
+                color: var(--main-color-1) !important;
+              }
             }
           }
 

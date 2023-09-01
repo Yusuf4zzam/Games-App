@@ -144,7 +144,7 @@ function createGameData(target) {
 
           $(
             ".slider-page"
-          ).style.backgroundImage = `url(../../games/images/${e.gameName
+          ).style.backgroundImage = `url(../games/images/${e.gameName
             .split(" ")
             .join("")
             .split(":")
@@ -175,7 +175,7 @@ function sliderGames(target) {
 
   // create The Main Img
   let mainImg = document.createElement("img");
-  mainImg.src = `../../games/images/${target.gameName
+  mainImg.src = `../games/images/${target.gameName
     .split(" ")
     .join("")
     .split(":")
